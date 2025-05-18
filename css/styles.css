@@ -8,8 +8,14 @@
 .content-section p {
   text-align: center;  
 }
+
+.navbar-nav.visible-xs > li > a {
+  text-align: center;
+}
 @media (min-width: 992px) {
     .navbar-brand {
       padding-left: 100px;
     }
   }
+
+  
